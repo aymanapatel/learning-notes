@@ -51,12 +51,12 @@ These include,
 2. Must provide source code.
 3. Must allow derived works: The whole goal of open source is collaboration. Without allowing works to be derived using Pull Requests, your project will not be enhanced by peers who are more experienced in the software stack.
 4. Integrity of author's code must be maintained: Need to maintain who contributed a specific piece of code. This includes CLA agreement.
-5. No discrimination against a person or a particular group: Open source thrives on diversity .
+5. No discrimination against a person or a particular group: Open source thrives on diversity.
 6. No discrimination against field of endevour
-7. Distribution of only one license required to secure rights. A LICENSE page is usually placed at the source
+7. Distribution of only one license required to secure rights. A LICENSE page is usually placed at the source.
 8. License must not be speicfic to product: Product cannot be identified as Open source for a particular distribution platform. For example, you cannot have a package be open source for Ubuntu while it is closed-source for Mac. 
 9. License must not restrict other software: This means that the license project cannot impose restrictions on other software that is distributed with licensed software.
-10. License must be techincally neutral: This means that the project can work on different platforms and there is no lock-in.
+10. License must be techincally neutral: This means that the project can work on different platforms and there is no vendor lock-in.
 
 
 
@@ -65,13 +65,13 @@ These include,
 
 # Licenses
 
-Look this [site](https://choosealicense.com/) to get hold of all possible licenses
+Look this [site](https://choosealicense.com/) to get hold of all possible licenses.
 
 ## BSD: The first OSS License
 
 Initial licenses were created at Universities. BSD license was created by UC Berkley in 1990. It was used for the BSD OS, a Unix-like operating system.
 It is a permissive license. 
-BSD licnese 1 is not a OSI approved for its 'advertising clause" which requred acknowledgement that the software is developed by UC Berkely and its contributors.
+BSD licnese 1 is not an OSI approved for its 'advertising clause" which requred acknowledgement that the software is developed by UC Berkely and its contributors.
 This clause was later removed in the subsequent revisions to make it OSS compliant.
 
 
@@ -95,16 +95,16 @@ It also does not tell anything about patent sharing.
 It is the most commecial favourable license. It has an embedded implicit CLA.
 
 
-### Permissive vs copyleft license
+## Permissive vs copyleft license
 
 Copyleft: It is an arrangement by which any work can be ditributed freely and also derived.
 
-Strong copyleft
+### Strong copyleft
 
 - Example: GPLV3
 - Combining GPL with non-GPL will result in code that is GPL
 
-Weak copyleft: 
+### Weak copyleft: 
 - Example: LGPL
 - Distribution of binary files does not affect the target code that uses the bonary files.
 
@@ -147,8 +147,9 @@ Now it has moved to Permissive license, MIT.
 ## Contributor License Aggreement (CLAs)
 
 Apache has implicit CLA.
-Best practive to have a **explicit CLA**
-CLA makes it explicit that contributors are transferring parent right to the project/software.
+Best practive is to have an **explicit CLA**.
+
+CLA makes it explicit that contributors are transferring the patent right to the project/software.
 
 ## Patent Promise
 
